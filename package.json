@@ -1,0 +1,17 @@
+{
+  "name": "testappdatelib",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cabbagesoup/datelib": "^1.0.0",
+    "jest": "^29.7.0"
+  }
+}
